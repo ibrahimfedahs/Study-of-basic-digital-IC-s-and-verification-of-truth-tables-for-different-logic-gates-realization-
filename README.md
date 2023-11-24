@@ -1,4 +1,9 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+```
+Name :- Rajalakshmi R
+Reg No :- 23013958
+```
+
+# EXP-1  Study of basic digital IC s and verification of truth tables for different logic gates realization
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -59,24 +64,17 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
-## Program:
-```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: Rajalakshmi R
-RegisterNumber:  23013958
-```
-Program, Logic gate & Truthtable
-RTL realization
-
-## Output:
+###  Program:
 ![Screenshot 2023-11-24 094526](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/3198a97b-9ec9-494e-a188-3b612c8553d5)
 
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/4c8aed00-4f23-4e97-b67e-ab9fb8d15caa)
-
+### RTL realization:
 ![Screenshot 2023-11-24 094535](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
 
-![Screenshot 2023-11-24 094554](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/23abc83f-3a9f-41ca-b363-5bb7a29646e6)
+### Truth Table:
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/4c8aed00-4f23-4e97-b67e-ab9fb8d15caa)
 
+### Timing Diagram:
+![Screenshot 2023-11-24 094554](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/23abc83f-3a9f-41ca-b363-5bb7a29646e6)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
