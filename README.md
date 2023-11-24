@@ -60,12 +60,12 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
 ## Program:
-/*
+```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Rajalakshmi R
 RegisterNumber:  23013958
-*/
-Logic symbol & Truthtable
+```
+Program, Logic gate & Truthtable
 RTL realization
 
 ## Output:
