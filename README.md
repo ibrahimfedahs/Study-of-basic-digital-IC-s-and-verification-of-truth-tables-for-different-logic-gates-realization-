@@ -64,6 +64,9 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
+
+
+
 ###  Program:
 ```
 module project_3(a,b,y1,y2,y3,y4,y5,y6,y7);
@@ -79,11 +82,16 @@ xnor (y7,a,b);
 endmodule
 ```
 
+
+
 ### RTL realization:
 ![Screenshot 2023-11-24 094535](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
 
+
+
 ### Truth Table:
 ![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/e6a48ed0-24a7-4d97-86f7-8fbb054144b6)
+
 
 ### Timing Diagram:
 ![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/7f5a131f-64f6-4f0f-9f07-d17392ceba3d)
