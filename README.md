@@ -65,16 +65,29 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
 ###  Program:
-![Screenshot 2023-11-24 094526](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/3198a97b-9ec9-494e-a188-3b612c8553d5)
+```
+module project_3(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and (y1,a,b);
+or(y2,a,b);
+not (y3,a);
+xor (y4,a,b);
+nand (y5,a,b);
+nor(y6,a,b);
+xnor (y7,a,b);
+endmodule
+```
 
 ### RTL realization:
 ![Screenshot 2023-11-24 094535](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/bc84549b-e208-41c7-8d5d-96aa78cba9f5)
 
 ### Truth Table:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/4c8aed00-4f23-4e97-b67e-ab9fb8d15caa)
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/e6a48ed0-24a7-4d97-86f7-8fbb054144b6)
 
 ### Timing Diagram:
-![Screenshot 2023-11-24 094554](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/23abc83f-3a9f-41ca-b363-5bb7a29646e6)
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/7f5a131f-64f6-4f0f-9f07-d17392ceba3d)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
