@@ -90,11 +90,12 @@ endmodule
 
 
 ### Truth Table:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/e6a48ed0-24a7-4d97-86f7-8fbb054144b6)
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/dd0dd69b-0870-4515-b0da-6129de447907)
 
 
 ### Timing Diagram:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/7f5a131f-64f6-4f0f-9f07-d17392ceba3d)
+![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/5777006f-8b57-4d2d-9380-2c0ad6cd6ad0)
+
 
 
 ## Result:
