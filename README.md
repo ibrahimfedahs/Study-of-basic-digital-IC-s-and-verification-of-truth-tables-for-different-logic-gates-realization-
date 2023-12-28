@@ -1,6 +1,6 @@
 ```
-Name :- Rajalakshmi R
-Reg No :- 23013958
+Name :- ibrahim fedah s
+Reg No :- 23014264
 ```
 
 # Exp-1 : Study of basic digital IC s and verification of truth tables for different logic gates realization
